@@ -1,5 +1,5 @@
 # 5 ways to convert a JSON object to a CSV
-While working with APIs, one often finds themselves needing to convert a JSON object to a CSV. These code samples correspond to this [blog post](will_add_link_when_available) will walk you through 5 strategies to turn a JSON response from a request you'll make using the recent search endpoint from v2 of the Twitter API.  
+While working with APIs, one often finds themselves needing to convert a JSON object to a CSV. These code samples correspond to this [blog post](will_add_link_when_available) which will walk you through 5 strategies to turn a JSON response from a request you'll make using the recent search endpoint from v2 of the Twitter API.  
 
 ## What you need to get started
 You will need to have an [approved developer account](https://developer.twitter.com/en/apply-for-access), and have activated the [new developer portal experience](https://developer.twitter.com/en/portal/opt-in.html). Access is available with active keys and tokens for a developer App that is attached to a [Project](https://developer.twitter.com/en/docs/projects.html) created in the [developer portal](https://developer.twitter.com/en/docs/developer-portal.html). You will also need bearer token from your App in the [Twitter developer portal](https://developer.twitter.com/en/docs/developer-portal/overview).

@@ -1,5 +1,4 @@
 # 5 ways to convert a JSON object to a CSV
-
 While working with APIs, one often finds themselves needing to convert a JSON object to a CSV. These code samples correspond to this [blog post](will_add_link_when_available) will walk you through 5 strategies to turn a JSON response from a request you'll make using the recent search endpoint from v2 of the Twitter API.  
 
 ## What you need to get started
@@ -17,3 +16,10 @@ For R, in the your console you will need to run the following line.
 ```r
 Sys.setenv(BEARER_TOKEN = "your-bearer-token")
 ```
+
+## Code for each of the 5 ways 
+1. [From the command line using csvkit](https://github.com/twitterdev/5-ways-to-convert-json-to-csv/blob/main/using_csv_kit.sh)
+2. [Using the web](https://github.com/twitterdev/5-ways-to-convert-json-to-csv/blob/main/using_the_web.md)
+3. [Using requests and pandas in Python](https://github.com/twitterdev/5-ways-to-convert-json-to-csv/blob/main/requests_and_pandas.py)
+4. [In R using httr](https://github.com/twitterdev/5-ways-to-convert-json-to-csv/blob/main/httr_in_r.R)
+5. [In Node.js using axios and json2csv](https://github.com/twitterdev/5-ways-to-convert-json-to-csv/blob/main/axios_and_json2csv.js)

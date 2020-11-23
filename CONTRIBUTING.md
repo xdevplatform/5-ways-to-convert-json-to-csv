@@ -10,15 +10,15 @@ We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow
 1. Check out the `master` branch
 1. Create a feature branch
 1. Write code and tests for your change
-1. From your branch, make a pull request against `twitter/repo-scaffolding/master`
+1. From your branch, make a pull request against `twitterdev/5-ways-to-convert-json-to-csv/master`
 1. Work with repo maintainers to get your change reviewed
-1. Wait for your change to be pulled into `twitter/repo-scaffolding/master`
+1. Wait for your change to be pulled into `twitterdev/5-ways-to-convert-json-to-csvmaster`
 1. Delete your feature branch
 
 ## License
 
 By contributing your code, you agree to license your contribution under the
-terms of the APLv2: https://github.com/twitter/repo-scaffolding/blob/master/LICENSE
+terms of the APLv2: https://github.com/twitterdev/5-ways-to-convert-json-to-csv/blob/master/LICENSE
 
 ## Code of Conduct
 

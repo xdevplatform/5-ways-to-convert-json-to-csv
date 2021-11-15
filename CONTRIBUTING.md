@@ -7,12 +7,12 @@ We'd love to get patches from you!
 We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow/)
 
 1. Fork the project
-1. Check out the `master` branch
+1. Check out the `main` branch
 1. Create a feature branch
 1. Write code and tests for your change
-1. From your branch, make a pull request against `twitterdev/5-ways-to-convert-json-to-csv/master`
+1. From your branch, make a pull request against `twitterdev/5-ways-to-convert-json-to-csv/main`
 1. Work with repo maintainers to get your change reviewed
-1. Wait for your change to be pulled into `twitterdev/5-ways-to-convert-json-to-csvmaster`
+1. Wait for your change to be pulled into `twitterdev/5-ways-to-convert-json-to-csv/main`
 1. Delete your feature branch
 
 ## License
@@ -22,4 +22,4 @@ terms of the APLv2: https://github.com/twitterdev/5-ways-to-convert-json-to-csv/
 
 ## Code of Conduct
 
-Read our [Code of Conduct](CODE_OF_CONDUCT.md) for the project.
+We believe that a welcoming community is important and we ask that you follow Twitter's [Open Source Code of Conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md) in all interactions with the community.
